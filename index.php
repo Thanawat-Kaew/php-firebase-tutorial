@@ -9,7 +9,7 @@
 				<div class="card my-3">
 					<div class="card-body">
 						<h5>
-							Total Record:
+							Total Records:
 							<?php 
 							include('dbcon.php');
 							$ref_table = "contacts";
